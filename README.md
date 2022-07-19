@@ -1,13 +1,13 @@
 # Python of Everyone (101) course
 
-Welcome to the **Python for Everyone** (101) course, hosted by PyLadies Stockholm!
+Welcome to the **Python for Everyone** (101) program, hosted by PyLadies Stockholm!
 
 ## Contents
 
-A free course, hosted mainly in-person in the Stockholm city centre.
+A free program, hosted mainly in-person in the Stockholm city centre.
 
-The aim of this course is to provide a safe, and structured learning environment to get more women coding in Python.
-This is the first course in an expected series of courses.
+The aim of this program is to provide a safe, and structured learning environment to get more women coding in Python.
+This is the first part in an expected program.
 With these courses we want to mentor, learn, and grow as a community.
 
 This course has included learning the basics of Python 🐍 such as:

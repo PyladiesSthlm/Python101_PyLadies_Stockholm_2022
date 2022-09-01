@@ -29,3 +29,8 @@ As well as:
 ## Sources
 
 We could not put together this program without the support of our own Pythonistas at PyLadies Stockholm, and our wonderful attendees ❤️.
+
+## Join PyLadies Stockholm
+
+Check out our [MeetUp](https://www.meetup.com/pyladiesstockholm/) page for our upcoming events.
+And join us on Slack at pyladies.slack.com under #city-stockholm 

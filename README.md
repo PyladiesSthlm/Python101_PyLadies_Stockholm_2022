@@ -12,23 +12,20 @@ With this program we want to mentor, learn, and grow as a community.
 
 This program will include learning the basics of Python 🐍 such as:
 
-- 
--
--
--
+- Iterations
+- Conditional statements
+- Functions, how to create your own
+- Intro to PEP 8
+- Simple Python projects
 
 As well as:
 
 - `git` basics
 - how to document Python code
-- 
+- CV tips
+- collaborating with others
+- communicating as a team online
 
 ## Sources
 
 We could not put together this program without the support of our own Pythonistas at PyLadies Stockholm, and our wonderful attendees ❤️.
-
-Additionally, we have gathered and used the following sources (either directly, or as inspiration) as part of this program:
-
--
--
--

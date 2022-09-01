@@ -1,6 +1,6 @@
-# Python of Everyone (101) program
+# Python of Everyone program
 
-Welcome to the **Python for Everyone** (101) program, hosted by PyLadies Stockholm!
+Welcome to the **Python for Everyone** program, hosted by PyLadies Stockholm!
 
 ## Contents
 

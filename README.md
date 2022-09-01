@@ -33,4 +33,5 @@ We could not put together this program without the support of our own Pythonista
 ## Join PyLadies Stockholm
 
 Check out our [MeetUp](https://www.meetup.com/pyladiesstockholm/) page for our upcoming events.
-And join us on Slack at pyladies.slack.com under #city-stockholm 
+
+And join us on Slack at pyladies.slack.com under #city-stockholm.
